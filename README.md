@@ -1,6 +1,8 @@
 ### About me
 - 👋 Hi, I’m **Raúl Fernández.**
 
+I'm a person who loves to speak with new people and learn new things, so feel free to talk me!
+
 - 👀 I’m interested in learning more about **Backend** and **Mobile Apps Development.**
 
 - 🌱 I’m currently studying Higher Education, specifically Multiplatfrom App Development (last year).
@@ -9,11 +11,10 @@
 
 - 📫 How to reach me...
 
-Mail: yanngelmarbella@gmail.com
+_Mail: yanngelmarbella@gmail.com_
 
-LinkedIn: https://www.linkedin.com/in/raul-fernandez-cruz/
+_LinkedIn: https://www.linkedin.com/in/raul-fernandez-cruz/_
 
-I'm a person who loves to speak with new people and learn new things, so feel free to talk me!
 
 ### TODO List
 - [X] Create a GitHub.
