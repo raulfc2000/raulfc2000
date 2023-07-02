@@ -5,7 +5,7 @@ I'm a person who loves to speak with new people and learn new things, so feel fr
 
 - 👀 I’m interested in learning more about **Backend** and **Mobile Apps Development.**
 
-- 🌱 I’m currently studying Higher Education, specifically Multiplatfrom App Development (last year).
+- 🌱 I’ve just ended my studies in Higher Education, specifically Multiplatfrom App Development.
 
 - 💞️ I’m looking to collaborate on projects that can make me learn more and grow as a developer.
 
@@ -18,8 +18,9 @@ _LinkedIn: https://www.linkedin.com/in/raul-fernandez-cruz/_
 
 ### TODO List
 - [X] Create a GitHub.
-- [ ] Develop and push some projects to GitHub.
-- [ ] End my studies.
+- [X] Develop and push some projects to GitHub.
+- [X] End my studies.
+- [ ] Create a full-stack project. Thinking about Django REST + Flutter.
 
 <!---
 raulfc2000/raulfc2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
