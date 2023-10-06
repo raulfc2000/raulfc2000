@@ -20,7 +20,7 @@ _LinkedIn: https://www.linkedin.com/in/raul-fernandez-cruz/_
 - [X] Create a GitHub.
 - [X] Develop and push some projects to GitHub.
 - [X] End my studies.
-- [ ] Create a full-stack project. Thinking about Django REST + Flutter.
+- [ ] Create an end to end project. Thinking about Django REST + Flutter.
 
 <!---
 raulfc2000/raulfc2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
