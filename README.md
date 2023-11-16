@@ -5,7 +5,7 @@ I'm a person who loves to speak with new people and learn new things, so feel fr
 
 - 👀 I’m interested in learning more about **Backend** and **Mobile Apps Development.**
 
-- 🌱 I’ve just ended my studies in Higher Education, specifically Multiplatfrom App Development.
+- 🌱 I’ve ended my studies in Higher Education, specifically Multiplatfrom App Development, and now I am working for ViewNext, an IBM subsidiary.
 
 - 💞️ I’m looking to collaborate on projects that can make me learn more and grow as a developer.
 
